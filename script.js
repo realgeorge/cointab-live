@@ -93,6 +93,7 @@ const COIN_OPTIONS = [
 'XRP',
 'ETH',
 'DASH',
+'XMR',
 'LTC'];
 
 const PERIOD_OPTIONS = [
